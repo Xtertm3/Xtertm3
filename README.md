@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Xtertm3
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning Linux
+- 💞️ I’m looking to collaborate on IOt
+- 📫 How to reach me xtert_m3 insta
