@@ -1,3 +1,4 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xtertm3&show_icons=true&theme=radical)
 **Hi there! 👋 Welcome to My GitHub Repository**
 
 **About Me**
